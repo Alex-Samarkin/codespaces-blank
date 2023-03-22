@@ -1,0 +1,5 @@
+/workspaces/codespaces-blank/StatsLibrary/obj/Debug/net7.0/StatsLibrary.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/StatsLibrary/obj/Debug/net7.0/StatsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/StatsLibrary/obj/Debug/net7.0/StatsLibrary.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/StatsLibrary/obj/Debug/net7.0/StatsLibrary.AssemblyInfo.cs
+/workspaces/codespaces-blank/StatsLibrary/obj/Debug/net7.0/StatsLibrary.csproj.CoreCompileInputs.cache
